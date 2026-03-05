@@ -1,0 +1,1661 @@
+                                            /*HEaDer*/
+
+                                            #baba {
+                                                background-color: #150E28;
+                                                width: 100vh;
+                                                height: 15vh;
+                                                background-image: radial-gradient(to left, #903AFF);
+                                                opacity: 0.8;
+                                                position: fixed;
+                                                z-index: 1;
+                                            }
+
+                                            .tab {
+                                                background-image: linear-gradient(to left, #903AFF, #D434FE);
+                                                border-radius: 5px;
+                                                border-color: transparent;
+                                                height: 35px;
+                                                color: white;
+                                                padding: 10px 20px;
+                                            }
+
+                                            .get {
+                                                padding-right: 20px;
+                                                padding-bottom: 18px;
+                                            }
+
+                                            /*UnIvAsUaL sElEcToR*/
+
+                                            * {
+                                                margin: 0;
+                                                padding: 0;
+                                                color: white;
+                                                font-family: Arial, Helvetica, sans-serif;
+                                            }
+
+                                            .gep {
+                                                font-family: Arial, Helvetica, sans-serif;
+                                                font-weight: 900;
+                                                position: absolute;
+                                                top: 5px;
+                                                left: 10px;
+                                            }
+
+                                            .sonoko {
+                                                color: white;
+                                                padding-left: 10px;
+                                            }
+
+                                            .tonoko {
+                                                color: violet;
+                                            }
+
+                                            .redmon li {
+                                                display: inline-block;
+                                                padding: 12px;
+                                            }
+
+                                            .redmon {
+                                                position: relative;
+                                                left: 35rem;
+                                                top: 8px;
+                                                color: white;
+                                            }
+
+                                            .get:hover {
+                                                color: #7544b5;
+                                            }
+
+                                            /*SeCtIoN 1*/
+
+                                            .hachimolds {
+                                                color: white;
+                                            }
+
+                                            .hachimolds h6 {
+                                                position: absolute;
+                                                top: 23.5rem;
+                                                font-size: 20px;
+                                            }
+
+                                            .cocomelon {
+                                                position: absolute;
+                                                font-weight: 700;
+                                                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                                                font-size: 25px;
+                                                left: 32rem;
+                                                top: 4rem;
+                                            }
+
+                                            .LOL {
+                                                font-weight: 900;
+                                                font-size: 70px;
+                                                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                                                position: absolute;
+                                                top: 10.5rem;
+                                            }
+
+                                            .sweet-bumfull {
+                                                background-image: url(Creative.png);
+                                                background-repeat: no-repeat;
+                                                height: 16.1vh;
+                                                width: 16.1vw;
+                                                position: absolute;
+                                                top: 8rem;
+                                                left: 25rem;
+                                            }
+
+                                            .pweet-wumfull {
+                                                background-image: url(explodsion.png);
+                                                background-repeat: no-repeat;
+                                                height: 16.1vh;
+                                                width: 16.1vw;
+                                                position: absolute;
+                                                top: 18rem;
+                                                left: 35rem;
+                                            }
+
+                                            .tweet-gumfull {
+                                                background-image: url(chain.png);
+                                                background-repeat: no-repeat;
+                                                height: 16.1vh;
+                                                width: 16.1vw;
+                                                position: absolute;
+                                                top: 15rem;
+                                                left: 20rem;
+                                            }
+
+                                            .taco {
+                                                background-image: linear-gradient(to left, #903AFF, #D434FE);
+                                                border-radius: 5px;
+                                                border-color: transparent;
+                                                height: 35px;
+                                                color: white;
+                                                padding: 10px 20px;
+                                                position: absolute;
+                                                top: 27rem;
+                                            }
+
+                                            .sapathon {
+                                                background-color: #150E28;
+                                                width: auto;
+                                                height: 110vh;
+                                                background-image: radial-gradient(to left, #903AFF);
+                                            }
+
+                                            .nyanyanya {
+                                                color: #D434FE;
+                                            }
+
+                                            .cara {
+                                                background-image: url(man-wearing-smart-glasses-touching-virtual-screen\ 1.png);
+                                                height: 300px;
+                                                width: 750px;
+                                                position: absolute;
+                                                left: 11rem;
+                                                background-position: center;
+                                                background-size: contain;
+                                                top: 13rem;
+                                                filter: grayscale(1);
+                                                background-repeat: no-repeat;
+                                            }
+
+                                            .loo-loo {
+                                                background-image: url(Image\ 1.png);
+                                                height: 300px;
+                                                width: 300px;
+                                                background-position: contain;
+                                                background-size: cover;
+                                                position: absolute;
+                                                top: 14rem;
+                                                left: 23.5rem;
+                                                animation: coo-coo infinite 50s;
+                                            }
+
+                                            @keyframes coo-coo {
+                                                0% {
+                                                    transform: rotatez(-360deg);
+                                                }
+                                            }
+
+                                            .lobabe {
+                                                border-top: 5px solid #D434FE;
+                                                width: 6rem;
+                                                height: 3rem;
+                                                border-radius: 45%;
+                                                position: absolute;
+                                                top: 5.8rem;
+                                                left: 53.5rem;
+                                            }
+
+                                            .polopo {
+                                                background-image: url(Purple-Lens-Flare-PNG.png);
+                                                height: 500px;
+                                                width: 500px;
+                                                background-position: contain;
+                                                background-size: cover;
+                                                position: absolute;
+                                                top: 0.1rem;
+                                                left: 3rem;
+                                            }
+
+                                            e
+                                            /*sEcTiOn 2*/
+
+                                            .cocomelop {
+                                                position: absolute;
+                                                font-weight: 700;
+                                                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                                                font-size: 25px;
+                                                grid-area: loo;
+                                                margin-left: 0rem;
+                                            }
+
+                                            .POL {
+                                                color: #ff40fc;
+                                                font-weight: 600;
+                                                padding-top: 60px;
+                                                padding-bottom: 10px;
+                                            }
+
+                                            .kapathon {
+                                                background-color: #150E28;
+                                                width: auto;
+                                                height: 60vh;
+                                                display: grid;
+                                                grid-template-columns: repeat(2, 50%);
+                                                grid-template-rows: 100%;
+                                                grid-template-areas: 'poo loo';
+                                            }
+
+                                            .uibom-bom {
+                                                grid-area: poo;
+                                            }
+
+                                            .hachimols {
+                                                grid-area: loo;
+                                                margin-top: 50px;
+                                                animation: tweetping 2s;
+                                            }
+
+                                            .omotolani {
+                                                color: #D434FE;
+                                            }
+
+                                            /*iMaGe SeCtIoN2*/
+
+                                            .uibom-bom {
+                                                background-image: url(the\ big\ idea\ 1.png);
+                                                width: 29vw;
+                                                height: 59vh;
+                                                background-size: 120px;
+                                                background-position: contain;
+                                                background-size: cover;
+                                                position: absolute;
+                                                top: 33.1rem;
+                                                left: 5rem;
+                                                transform: skew(12deg);
+                                                animation: luvping 5s;
+                                            }
+
+                                            .poopsie {
+                                                position: absolute;
+                                                top: 42rem;
+                                                left: 12rem;
+                                                animation: luvping 5s;
+                                            }
+
+                                            /*sEcTiOn 3*/
+
+                                            .cocomelot {
+                                                position: absolute;
+                                                font-weight: 700;
+                                                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                                                font-size: 25px;
+                                                grid-area: loo;
+                                                margin-left: 0rem;
+                                                top: 1080px;
+                                            }
+
+                                            .ZOL {
+                                                color: #ff40fc;
+                                                font-weight: 600;
+                                                margin-top: 20px;
+                                                margin-bottom: 20px;
+                                            }
+
+                                            .zapathon {
+                                                background-color: #150E28;
+                                                width: auto;
+                                                height: 85vh;
+                                                background-image: radial-gradient(to left, #903AFF);
+                                                display: grid;
+                                                grid-template-columns: repeat(2, 50%);
+                                                grid-template-rows: 100%;
+                                                grid-template-areas: 'poo loo';
+                                            }
+
+                                            .puibom-bom {
+                                                grid-area: poo;
+                                            }
+
+                                            .puibom-bom {
+                                                grid-area: poo;
+                                                margin-top: 50px;
+                                                animation: goodping 4s;
+                                            }
+
+                                            /*iMaGe SeCtIoN3*/
+
+                                            .hachimos {
+                                                background-image: url(lome^arplin.png);
+                                                width: 29vw;
+                                                height: 59vh;
+                                                background-size: 120px;
+                                                background-position: contain;
+                                                background-size: cover;
+                                                position: absolute;
+                                                top: 55.1rem;
+                                                left: 40rem;
+                                                grid-area: loo;
+                                                animation: goodping 4s;
+                                            }
+
+                                            @keyframes luvping {
+                                                1% {
+                                                    transform: translatex(-80rem);
+                                                }
+                                            }
+
+                                            @keyframes tweetping {
+                                                1% {
+                                                    transform: translatex(80rem);
+                                                }
+                                            }
+
+                                            @keyframes goodping {
+                                                1% {
+                                                    opacity: 0;
+                                                }
+                                            }
+
+                                            @keyframes mooseyping {
+                                                1% {
+                                                    transform: translatex(80rem);
+                                                }
+                                            }
+
+                                            @keyframes wannabeping {
+                                                1% {
+                                                    transform: translatex(-80rem);
+                                                }
+                                            }
+
+                                            .poopsle {
+                                                position: absolute;
+                                                top: 55rem;
+                                                left: 12rem;
+                                            }
+
+                                            /*sEcTiOn 4*/
+
+                                            .heartsping {
+                                                font-weight: 700;
+                                                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                                                font-size: 25px;
+                                                grid-area: loo;
+                                                margin-top: -3rem;
+                                            }
+
+                                            .trustping {
+                                                color: #ff40fc;
+                                                font-weight: 600;
+                                                padding-top: 60px;
+                                                padding-bottom: 10px;
+                                            }
+
+                                            .joshua-adeyemi {
+                                                background-color: #150E28;
+                                                width: auto;
+                                                height: 142vh;
+                                                background-image: radial-gradient(to left, #903AFF);
+                                                display: grid;
+                                                grid-template-columns: repeat(2, 50%);
+                                                grid-template-rows: 100%;
+                                                grid-template-areas: 'poo loo';
+                                            }
+
+                                            .cute {
+                                                margin-bottom: 2.5rem;
+                                            }
+
+                                            /*iMaGe SeCtIoN4*/
+
+                                            .catch-teenieping {
+                                                background-image: url(sweet\ bumfull\ prrrrrrr\ brat.png);
+                                                width: 35vw;
+                                                height: 59vh;
+                                                background-size: 120px;
+                                                background-position: contain;
+                                                background-size: cover;
+                                                position: absolute;
+                                                top: 85rem;
+                                                left: 2rem;
+                                                grid-area: poo;
+                                                margin-top: 2.5rem;
+                                                animation: mooseyping 5s;
+                                            }
+
+                                            .joahping {
+                                                background-image: linear-gradient(to right, #ff39a3, #ff44ff, #941bff);
+                                                border-radius: 5px;
+                                                display: inline-block;
+                                                padding-top: 10px;
+                                                padding-bottom: 10px;
+                                                padding-left: 15px;
+                                                padding-right: 15px;
+                                                margin-top: 5px;
+                                            }
+
+                                            .teeheeping {
+                                                grid-area: loo;
+                                                animation: wannabeping 5s;
+                                            }
+
+                                            /*sEcTiOn 5*/
+
+                                            .heartping {
+                                                font-weight: 700;
+                                                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                                                font-size: 25px;
+                                                grid-area: loo;
+                                                margin-left: rem;
+                                            }
+
+                                            .lalaping {
+                                                color: #ff40fc;
+                                                font-weight: 600;
+                                                margin-bottom: 15px;
+                                                margin-top: 15px;
+                                            }
+
+                                            .omotolani-solomon {
+                                                background-color: #150E28;
+                                                width: auto;
+                                                height: 146vh;
+                                                background-image: radial-gradient(to left, #903AFF);
+                                                display: grid;
+                                                grid-template-columns: repeat(2, 50%);
+                                                grid-template-rows: 100%;
+                                                grid-template-areas: 'poo loo';
+                                                padding-bottom: 23px;
+                                            }
+
+                                            /*exept lalaping and heartping*/
+
+                                            .chachaping {
+                                                margin-bottom: 2.5rem;
+                                                border-bottom: 2px solid #ff40fc;
+                                                width: 25rem;
+                                                height: 3rem;
+                                            }
+
+                                            /*iMaGe SeCtIoN5*/
+
+                                            .heartping {
+                                                background-image: url(the\ big\ idea\ 2.png);
+                                                width: 35vw;
+                                                height: 72vh;
+                                                background-size: 120px;
+                                                background-position: contain;
+                                                background-size: cover;
+                                                position: absolute;
+                                                top: 119rem;
+                                                left: 2rem;
+                                                grid-area: poo;
+                                                margin-top: 2.5rem;
+                                                animation: mimicping infinite 0.8s;
+                                            }
+
+                                            @keyframes mimicping {
+                                                1% {
+                                                    transform: translateY(3rem);
+                                                }
+                                            }
+
+                                            .happing {
+                                                font-size: 17.5px;
+                                                font-weight: 400;
+                                                margin: 2rem 0rem;
+                                            }
+
+                                            .dadaping {
+                                                grid-area: loo;
+                                                animation: wannabeping 5s;
+                                            }
+
+                                            .heart-chu {
+                                                background-image: url(star.png);
+                                                width: 6vh;
+                                                height: 10vh;
+                                                background-repeat: no-repeat;
+                                                position: absolute;
+                                                top: -6rem;
+                                                left: 29rem;
+                                            }
+
+                                            .plus {
+                                                color: #ff38ff;
+                                                padding-left: 5rem;
+                                            }
+
+                                            /*sEcTiOn 6*/
+
+                                            .heartping {
+                                                font-weight: 700;
+                                                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                                                font-size: 25px;
+                                                grid-area: loo;
+                                                margin-left: rem;
+                                            }
+
+                                            .lalaping {
+                                                color: #ff40fc;
+                                                font-weight: 600;
+                                                margin-bottom: 15px;
+                                                margin-top: 15px;
+                                            }
+
+                                            .tolani-mold {
+                                                background-color: #150E28;
+                                                width: auto;
+                                                height: 146vh;
+                                                background-image: radial-gradient(to left, #903AFF);
+                                                display: grid;
+                                                grid-template-columns: repeat(3, 33%);
+                                                grid-template-rows: repeat(6, 16.7%);
+                                                grid-template-areas: 'loo tou wou' 'row cow yow' 'tee yee hee' 'ayu byu cyu' 'twe bwe nwe' 'mre dre lre';
+                                            }
+
+                                            /*exept tolani-poo-poo*/
+
+                                            .chachaping {
+                                                margin-bottom: 2.5rem;
+                                                border-bottom: 2px solid #ff40fc;
+                                                width: 25rem;
+                                                height: 3rem;
+                                            }
+
+                                            /*iMaGe SeCtIoN5*/
+
+                                            .heartping {
+                                                background-image: url(the\ big\ idea\ 2.png);
+                                                width: 35vw;
+                                                height: 72vh;
+                                                background-size: 120px;
+                                                background-position: contain;
+                                                background-size: cover;
+                                                position: absolute;
+                                                top: 119rem;
+                                                left: 2rem;
+                                                grid-area: poo;
+                                                margin-top: 2.5rem;
+                                                animation: mimicping infinite 0.8s;
+                                            }
+
+                                            @keyframes mimicping {
+                                                1% {
+                                                    transform: translateY(3rem);
+                                                }
+                                            }
+
+                                            .happing {
+                                                font-size: 17.5px;
+                                                font-weight: 400;
+                                                margin: 2rem 0rem;
+                                            }
+
+                                            .dadaping {
+                                                grid-area: loo;
+                                                animation: wannabeping 5s;
+                                            }
+
+                                            .starring {
+                                                background-image: url(star.png);
+                                                width: 6vh;
+                                                height: 10vh;
+                                                background-repeat: no-repeat;
+                                                position: absolute;
+                                                top: -6rem;
+                                                left: 29rem;
+                                            }
+
+                                            .plus {
+                                                color: #ff38ff;
+                                                padding-left: 5rem;
+                                            }
+
+                                            .hack {
+                                                grid-area: loo;
+                                            }
+
+                                            .tickle {
+                                                grid-area: tou;
+                                            }
+
+                                            .rat {
+                                                grid-area: wou;
+                                            }
+
+                                            /*sEcTiOn 7*/
+
+                                            * {
+                                                margin: 0;
+                                                padding: 0;
+                                                color: ghostwhite;
+                                            }
+
+                                            section {
+                                                background-color: #150E28;
+                                                width: auto;
+                                                height: 100vh;
+                                                display: grid;
+                                                grid-template-columns: repeat(2, 50%);
+                                                grid-template-rows: 100%;
+                                                grid-template-areas: 'poo loo';
+                                            }
+
+                                            .text-and-picture {
+                                                grid-area: loo;
+                                            }
+
+                                            .trofy-sec7 {
+                                                grid-area: poo;
+                                            }
+
+                                            .trofy-sec7 img {
+                                                width: 25rem;
+                                                position: absolute;
+                                                top: 261rem;
+                                            }
+
+                                            .PRIZE-AND {
+                                                font-size: 50px;
+                                                color: white;
+                                                padding-bottom: 100px;
+                                            }
+
+                                            .REWARDS {
+                                                font-size: 50px;
+                                                color: #f42aff;
+                                            }
+
+                                            .PRIZE-AND-REWARDS {
+                                                margin-bottom: 1rem;
+                                            }
+
+                                            .HIGH-OF-THE-PRIZES {
+                                                font-size: 20px;
+                                            }
+
+                                            .medals p {
+                                                display: inline-block;
+                                                width: 14.5%;
+                                            }
+
+                                            .gold img {
+                                                width: 15rem;
+                                                margin-left: 2rem;
+                                            }
+
+                                            .gold {
+                                                z-index: 1;
+                                                position: relative;
+                                            }
+
+                                            .silver img {
+                                                width: 10rem;
+                                            }
+
+                                            .silver {
+                                                position: relative;
+                                                z-index: 1;
+                                            }
+
+                                            .bronze img {
+                                                width: 10rem;
+                                                margin-left: 5rem;
+                                            }
+
+                                            .bronze {
+                                                margin-left: 5rem;
+                                                position: relative;
+                                                z-index: 1;
+                                            }
+
+                                            .prizes {
+                                                margin-bottom: 1rem;
+                                            }
+
+                                            .p-1 {
+                                                border: 2px solid #ea00ff;
+                                                background-color: #ff61ed6f;
+                                                width: 7rem;
+                                                height: 15rem;
+                                                position: absolute;
+                                                top: 279rem;
+                                                left: 43rem;
+                                            }
+
+                                            .p-2 {
+                                                border: 2px solid#ae00ff;
+                                                background-color: #ca58ff62;
+                                                width: 12rem;
+                                                height: 15rem;
+                                                position: absolute;
+                                                left: 53rem;
+                                                top: 279rem;
+                                            }
+
+                                            .p-3 {
+                                                border: 2px solid #ea00ff;
+                                                background-color: #ff61ed6f;
+                                                width: 7rem;
+                                                height: 15rem;
+                                                position: absolute;
+                                                left: 69rem;
+                                                top: 279rem;
+                                            }
+
+                                            .p-4 {
+                                                position: absolute;
+                                                top: 285rem;
+                                                left: 45rem;
+                                            }
+
+                                            .p-5 {
+                                                position: absolute;
+                                                left: 57rem;
+                                                top: 285rem;
+                                            }
+
+                                            .p-6 {
+                                                position: absolute;
+                                                left: 71rem;
+                                                top: 285rem;
+                                            }
+
+                                            .money {
+                                                color: #ea00ff;
+                                            }
+
+                                            .money-1 {
+                                                color: #ae00ff;
+                                            }
+
+                                            .money-2 {
+                                                color: #ea00ff;
+                                            }
+
+                                            * {
+                                                margin: 0;
+                                                padding: 0;
+                                                color: ghostwhite;
+                                            }
+
+                                            .b {
+                                                background-color: #150E28;
+                                                width: 100vw;
+                                                height: 100vh;
+                                                left: 2rem;
+                                                display: grid;
+                                                grid-template-columns: repeat(3, 33.3%);
+                                                grid-template-rows: repeat(6, 16.6%);
+                                                grid-template-areas: 'poo loo doo' 'juh luh duk' 'pig lig dig' 'putt lutt dutt' 'pol lol dol' 'peach leach deach';
+                                            }
+
+                                            body {
+                                                background-color: #150E28;
+                                            }
+
+                                            .a {
+                                                text-align: center;
+                                                font-size: 20px;
+                                                font-family: sans-serif;
+                                                font-weight: 600;
+                                            }
+
+                                            .b {
+                                                margin-top: 5rem;
+                                            }
+
+                                            .c {
+                                                grid-area: poo;
+                                                text-align: right;
+                                            }
+
+                                            .d {
+                                                grid-area: juh;
+                                                text-align: right;
+                                            }
+
+                                            .e {
+                                                text-align: right;
+                                                grid-area: pig;
+                                            }
+
+                                            .f {
+                                                text-align: right;
+                                                grid-area: putt;
+                                            }
+
+                                            .g {
+                                                text-align: right;
+                                                grid-area: pol;
+                                            }
+
+                                            .h {
+                                                text-align: right;
+                                                grid-area: peach;
+                                            }
+
+                                            .i {
+                                                grid-area: loo;
+                                                text-align: center;
+                                                border: 2px solid #e100ff;
+                                                border-radius: 100%;
+                                                width: 25px;
+                                                height: 25px;
+                                                margin-left: 12rem;
+                                                background-image: linear-gradient(to right, #ff39a3, #ff44ff, #941bff);
+                                            }
+
+                                            .j {
+                                                grid-area: luh;
+                                                text-align: center;
+                                                border: 2px solid #e100ff;
+                                                border-radius: 100%;
+                                                width: 25px;
+                                                height: 25px;
+                                                margin-left: 12rem;
+                                                background-image: linear-gradient(to right, #ff39a3, #ff44ff, #941bff);
+                                            }
+
+                                            .k {
+                                                grid-area: lig;
+                                                text-align: center;
+                                                border: 2px solid #e100ff;
+                                                border-radius: 100%;
+                                                width: 25px;
+                                                height: 25px;
+                                                margin-left: 12rem;
+                                                background-image: linear-gradient(to right, #ff39a3, #ff44ff, #941bff);
+                                            }
+
+                                            .l {
+                                                grid-area: lutt;
+                                                text-align: center;
+                                                border: 2px solid #e100ff;
+                                                border-radius: 100%;
+                                                width: 25px;
+                                                height: 25px;
+                                                margin-left: 12rem;
+                                                background-image: linear-gradient(to right, #ff39a3, #ff44ff, #941bff);
+                                            }
+
+                                            .m {
+                                                grid-area: lol;
+                                                text-align: center;
+                                                border: 2px solid #e100ff;
+                                                border-radius: 100%;
+                                                width: 25px;
+                                                height: 25px;
+                                                margin-left: 12rem;
+                                                background-image: linear-gradient(to right, #ff39a3, #ff44ff, #941bff);
+                                            }
+
+                                            .n {
+                                                grid-area: leach;
+                                                text-align: center;
+                                                border: 2px solid #e100ff;
+                                                border-radius: 100%;
+                                                width: 25px;
+                                                height: 25px;
+                                                margin-left: 12rem;
+                                                background-image: linear-gradient(to right, #ff39a3, #ff44ff, #941bff);
+                                            }
+
+                                            .o {
+                                                grid-area: doo;
+                                                text-align: left;
+                                            }
+
+                                            .p {
+                                                text-align: left;
+                                                grid-area: duk;
+                                            }
+
+                                            .q {
+                                                text-align: left;
+                                                grid-area: dig;
+                                            }
+
+                                            .r {
+                                                text-align: left;
+                                                grid-area: dutt;
+                                            }
+
+                                            .s {
+                                                text-align: left;
+                                                grid-area: dol;
+                                            }
+
+                                            .text-and-picture {
+                                                text-align: left;
+                                                grid-area: deach;
+                                            }
+
+                                            .purplely {
+                                                color: #e100ff;
+                                                margin-bottom: 1rem;
+                                            }
+
+                                            /*sEcTiOn 8*/
+
+                                            #intro {
+                                                text-align: center;
+                                            }
+
+                                            body {
+                                                background-color: #150E28;
+                                            }
+
+                                            .art-1 {}
+
+                                            * {
+                                                margin: 0;
+                                                padding: 0;
+                                                color: ghostwhite;
+                                            }
+
+                                            .path-and-spons {
+                                                padding-bottom: 1rem;
+                                                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                                                font-weight: 600;
+                                                font-size: 40px;
+                                            }
+
+                                            .getlinked {
+                                                padding-bottom: 3rem;
+                                                font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                                                font-weight: 600;
+                                            }
+
+                                            .logo {
+                                                border: 2px solid #b83eff;
+                                                display: grid;
+                                                grid-template-columns: repeat(3, 33.3%);
+                                                grid-template-rows: repeat(2, 50%);
+                                                grid-template-areas: 'poo loo doo' 'juh luh duk';
+                                                height: 25rem;
+                                            }
+
+                                            .logo-1 {
+                                                border-bottom: 2px solid #b83eff;
+                                                border-right: 2px solid #b83eff;
+                                                grid-area: poo;
+                                                padding-top: 3rem;
+                                                padding-left: 9rem;
+                                            }
+
+                                            .logo-2 {
+                                                grid-area: loo;
+                                                padding-top: 3rem;
+                                                padding-left: 9rem;
+                                            }
+
+                                            .logo-3 {
+                                                border-bottom: 2px solid #b83eff;
+                                                grid-area: doo;
+                                                border-left: 2px solid #b83eff;
+                                                padding-top: 3rem;
+                                                padding-left: 9rem;
+                                            }
+
+                                            .logo-4 {
+                                                grid-area: juh;
+                                                border-bottom: 2px solid #b83eff;
+                                                border-right: 2px solid #b83eff;
+                                                padding-top: 3rem;
+                                                padding-left: 9rem;
+                                            }
+
+                                            .logo-5 {
+                                                grid-area: luh;
+                                                padding-top: 3rem;
+                                                padding-left: 9rem;
+                                            }
+
+                                            .logo-6 {
+                                                grid-area: duk;
+                                                border-left: 2px solid #b83eff;
+                                                padding-top: 3rem;
+                                                padding-left: 9rem;
+                                            }
+
+                                            body {
+                                                background-color: #150E28;
+                                            }
+
+                                            * {
+                                                margin: 0;
+                                                padding: 0;
+                                                color: ghostwhite;
+                                            }
+
+                                            .sectie {
+                                                width: auto;
+                                                height: 100vh;
+                                                display: grid;
+                                                grid-template-columns: repeat(2, 50%);
+                                                grid-template-rows: 100%;
+                                                grid-template-areas: 'poo loo';
+                                            }
+
+                                            .divie {
+                                                font-family: cursive;
+                                                padding-bottom: 3rem;
+                                                grid-area: poo;
+                                            }
+
+                                            .privie {
+                                                font-weight: 1000;
+                                                padding-top: 1rem;
+                                            }
+
+                                            .spanie {
+                                                color: #a200ff;
+                                            }
+
+                                            .lastie {
+                                                color: gray;
+                                                padding-top: 1rem;
+                                                padding-bottom: 1rem;
+                                            }
+
+                                            .livie {
+                                                grid-area: poo;
+                                                border: 2px solid #a200ff;
+                                                height: 27rem;
+                                                width: 30em;
+                                                margin-top: 190px;
+                                            }
+
+                                            .getie {}
+
+                                            .lisenie {
+                                                color: #a200ff;
+                                                font-family: fantasy;
+                                                font-size: 25px;
+                                                margin-top: 1rem;
+                                            }
+
+                                            .standie {
+                                                font-weight: 1000;
+                                                margin-top: 1rem;
+                                            }
+
+                                            .polie {
+                                                margin-top: 1rem;
+                                            }
+
+                                            .readie {
+                                                background-image: linear-gradient(to left, deeppink, #fc01fc, #9000ff);
+                                                border-radius: 5px;
+                                                padding-top: 10px;
+                                                padding-bottom: 10px;
+                                                padding-left: 10px;
+                                                padding-right: 10px;
+                                                margin-top: 1rem;
+                                            }
+
+                                            .manie {
+                                                background-image: url(man\ locking\ a\ lock.png);
+                                                grid-area: loo;
+                                                height: 50rem;
+                                                width: 35em;
+                                            }
+
+                                            .lockie {
+                                                grid-area: loo;
+                                                background-image: url(Vector.png);
+                                                height: 35rem;
+                                                width: 33em;
+                                                position: absolute;
+                                                top: 6rem;
+                                                z-index: -1;
+                                            }
+
+                                            * {
+                                                margin: 0;
+                                                padding: 0;
+                                                color: ghostwhite;
+                                                margin-bottom: 1rem;
+                                            }
+
+                                            .footere {
+                                                width: auto;
+                                                height: 100vh;
+                                                display: grid;
+                                                grid-template-columns: repeat(3, 33.3%);
+                                                grid-template-rows: repeat(1, 100%);
+                                                grid-template-areas: 'poo loo goo';
+                                                background-color: #150E28;
+                                                margin-top: 10rem;
+                                            }
+
+                                            .diver {
+                                                grid-area: poo;
+                                            }
+
+                                            .liver {
+                                                grid-area: loo;
+                                            }
+
+                                            .tiver {
+                                                grid-area: goo;
+                                            }
+
+                                            .liker {
+                                                font-size: 2rem;
+                                                font-weight: 1000;
+                                                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                                            }
+
+                                            .spaner {
+                                                color: #e000f9;
+                                                font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+                                            }
+
+                                            .spaneri {
+                                                color: #e000f9;
+                                                margin-top: 500rem;
+                                            }
+
+                                            /* ============================================
+   RESPONSIVE MEDIA QUERIES
+   (added below — original styles untouched)
+   ============================================ */
+
+                                            /* ---------- TABLET (768px and below) ---------- */
+                                            @media screen and (max-width: 768px) {
+
+                                                /* HEADER */
+                                                #baba {
+                                                    width: 100%;
+                                                    height: auto;
+                                                    padding: 10px;
+                                                    position: relative;
+                                                }
+
+                                                .gep {
+                                                    position: relative;
+                                                    top: auto;
+                                                    left: auto;
+                                                    text-align: center;
+                                                }
+
+                                                .redmon {
+                                                    position: relative;
+                                                    left: auto;
+                                                    top: auto;
+                                                    display: flex;
+                                                    flex-wrap: wrap;
+                                                    justify-content: center;
+                                                    padding: 0;
+                                                    list-style: none;
+                                                }
+
+                                                .redmon li {
+                                                    padding: 8px;
+                                                }
+
+                                                /* HERO SECTION 1 */
+                                                .sapathon {
+                                                    height: auto;
+                                                    min-height: 100vh;
+                                                    padding: 1rem;
+                                                    overflow: hidden;
+                                                }
+
+                                                .cocomelon {
+                                                    position: relative;
+                                                    left: auto;
+                                                    top: auto;
+                                                    font-size: 18px;
+                                                    text-align: center;
+                                                    display: block;
+                                                    margin-bottom: 1rem;
+                                                }
+
+                                                .LOL {
+                                                    position: relative;
+                                                    top: auto;
+                                                    font-size: 40px;
+                                                    text-align: center;
+                                                }
+
+                                                .hachimolds h6 {
+                                                    position: relative;
+                                                    top: auto;
+                                                    font-size: 16px;
+                                                    text-align: center;
+                                                    margin-top: 1rem;
+                                                }
+
+                                                .taco {
+                                                    position: relative;
+                                                    top: auto;
+                                                    display: block;
+                                                    margin: 1rem auto;
+                                                }
+
+                                                .sweet-bumfull,
+                                                .pweet-wumfull,
+                                                .tweet-gumfull {
+                                                    display: none;
+                                                }
+
+                                                .cara {
+                                                    position: relative;
+                                                    left: auto;
+                                                    top: auto;
+                                                    width: 100%;
+                                                    height: 250px;
+                                                    margin-top: 2rem;
+                                                }
+
+                                                .loo-loo {
+                                                    position: relative;
+                                                    left: auto;
+                                                    top: auto;
+                                                    width: 200px;
+                                                    height: 200px;
+                                                    margin: -150px auto 0;
+                                                }
+
+                                                .lobabe {
+                                                    display: none;
+                                                }
+
+                                                .polopo {
+                                                    position: relative;
+                                                    left: auto;
+                                                    top: auto;
+                                                    width: 100%;
+                                                    height: 300px;
+                                                    display: none;
+                                                }
+
+                                                /* SECTION 2 — Big Idea */
+                                                .kapathon {
+                                                    grid-template-columns: 1fr;
+                                                    grid-template-areas: 'poo' 'loo';
+                                                    height: auto;
+                                                    padding: 2rem 1rem;
+                                                }
+
+                                                .uibom-bom {
+                                                    position: relative;
+                                                    top: auto;
+                                                    left: auto;
+                                                    width: 100%;
+                                                    height: 40vh;
+                                                    transform: none;
+                                                }
+
+                                                .cocomelop {
+                                                    position: relative;
+                                                    font-size: 20px;
+                                                }
+
+                                                .poopsie {
+                                                    position: relative;
+                                                    top: auto;
+                                                    left: auto;
+                                                    text-align: center;
+                                                }
+
+                                                /* SECTION 3 — Rules */
+                                                .zapathon {
+                                                    grid-template-columns: 1fr;
+                                                    grid-template-areas: 'loo' 'poo';
+                                                    height: auto;
+                                                    padding: 2rem 1rem;
+                                                }
+
+                                                .hachimos {
+                                                    position: relative;
+                                                    top: auto;
+                                                    left: auto;
+                                                    width: 100%;
+                                                    height: 40vh;
+                                                }
+
+                                                .poopsle {
+                                                    position: relative;
+                                                    top: auto;
+                                                    left: auto;
+                                                }
+
+                                                /* SECTION 4 — Judging */
+                                                .joshua-adeyemi {
+                                                    grid-template-columns: 1fr;
+                                                    grid-template-areas: 'poo' 'loo';
+                                                    height: auto;
+                                                    padding: 2rem 1rem;
+                                                }
+
+                                                .catch-teenieping {
+                                                    position: relative;
+                                                    top: auto;
+                                                    left: auto;
+                                                    width: 100%;
+                                                    height: 40vh;
+                                                }
+
+                                                /* SECTION 5 — FAQs */
+                                                .omotolani-solomon {
+                                                    grid-template-columns: 1fr;
+                                                    grid-template-areas: 'poo' 'loo';
+                                                    height: auto;
+                                                    padding: 2rem 1rem;
+                                                }
+
+                                                .heartping {
+                                                    position: relative;
+                                                    top: auto;
+                                                    left: auto;
+                                                    width: 100%;
+                                                    height: 40vh;
+                                                }
+
+                                                .chachaping {
+                                                    width: 100%;
+                                                }
+
+                                                /* TIMELINE — article.b */
+                                                .b {
+                                                    grid-template-columns: 1fr;
+                                                    grid-template-rows: auto;
+                                                    grid-template-areas:
+                                                        'loo'
+                                                        'poo'
+                                                        'doo'
+                                                        'luh'
+                                                        'duk'
+                                                        'lig'
+                                                        'pig'
+                                                        'dig'
+                                                        'lutt'
+                                                        'putt'
+                                                        'dutt'
+                                                        'lol'
+                                                        'pol'
+                                                        'dol'
+                                                        'leach'
+                                                        'peach'
+                                                        'deach';
+                                                    height: auto;
+                                                    padding: 1rem;
+                                                }
+
+                                                .c,
+                                                .d,
+                                                .e,
+                                                .f,
+                                                .g,
+                                                .h,
+                                                .o,
+                                                .p,
+                                                .q,
+                                                .r,
+                                                .s,
+                                                .text-and-picture {
+                                                    text-align: center;
+                                                }
+
+                                                .i,
+                                                .j,
+                                                .k,
+                                                .l,
+                                                .m,
+                                                .n {
+                                                    margin: 0.5rem auto;
+                                                }
+
+                                                /* SECTION 7 — Prizes */
+                                                section {
+                                                    grid-template-columns: 1fr;
+                                                    grid-template-areas: 'poo' 'loo';
+                                                    height: auto;
+                                                    padding: 1rem;
+                                                }
+
+                                                .trofy-sec7 img {
+                                                    position: relative;
+                                                    top: auto;
+                                                    width: 100%;
+                                                    max-width: 20rem;
+                                                    margin: 0 auto;
+                                                    display: block;
+                                                }
+
+                                                .medals p {
+                                                    width: 30%;
+                                                }
+
+                                                .gold img {
+                                                    width: 8rem;
+                                                    margin-left: 0;
+                                                }
+
+                                                .silver img {
+                                                    width: 6rem;
+                                                }
+
+                                                .bronze img {
+                                                    width: 6rem;
+                                                    margin-left: 1rem;
+                                                }
+
+                                                .bronze {
+                                                    margin-left: 1rem;
+                                                }
+
+                                                .p-1,
+                                                .p-2,
+                                                .p-3 {
+                                                    position: relative;
+                                                    top: auto;
+                                                    left: auto;
+                                                    display: inline-block;
+                                                    width: 30%;
+                                                    height: 10rem;
+                                                }
+
+                                                .p-4,
+                                                .p-5,
+                                                .p-6 {
+                                                    position: relative;
+                                                    top: auto;
+                                                    left: auto;
+                                                    display: inline-block;
+                                                    width: 30%;
+                                                    text-align: center;
+                                                }
+
+                                                .PRIZE-AND {
+                                                    font-size: 30px;
+                                                }
+
+                                                .REWARDS {
+                                                    font-size: 30px;
+                                                }
+
+                                                /* SECTION 8 — Sponsors */
+                                                .logo {
+                                                    height: auto;
+                                                    padding: 1rem;
+                                                }
+
+                                                .logo-1,
+                                                .logo-2,
+                                                .logo-3,
+                                                .logo-4,
+                                                .logo-5,
+                                                .logo-6 {
+                                                    padding-left: 2rem;
+                                                    padding-top: 1.5rem;
+                                                }
+
+                                                .path-and-spons {
+                                                    font-size: 28px;
+                                                }
+
+                                                /* PRIVACY */
+                                                .sectie {
+                                                    grid-template-columns: 1fr;
+                                                    grid-template-areas: 'poo' 'loo';
+                                                    height: auto;
+                                                    padding: 1rem;
+                                                }
+
+                                                .livie {
+                                                    width: 100%;
+                                                    height: auto;
+                                                    margin-top: 1rem;
+                                                }
+
+                                                .manie {
+                                                    width: 100%;
+                                                    height: 30rem;
+                                                    background-size: contain;
+                                                    background-repeat: no-repeat;
+                                                }
+
+                                                .lockie {
+                                                    position: relative;
+                                                    top: auto;
+                                                    width: 100%;
+                                                    height: 20rem;
+                                                    background-size: contain;
+                                                    background-repeat: no-repeat;
+                                                }
+
+                                                /* FOOTER */
+                                                .footere {
+                                                    grid-template-columns: 1fr;
+                                                    grid-template-areas: 'poo' 'loo' 'goo';
+                                                    height: auto;
+                                                    padding: 2rem 1rem;
+                                                    margin-top: 2rem;
+                                                }
+
+                                                .spaneri {
+                                                    margin-top: 2rem;
+                                                }
+                                            }
+
+                                            /* ---------- MOBILE (480px and below) ---------- */
+                                            @media screen and (max-width: 480px) {
+
+                                                /* HEADER */
+                                                .redmon li {
+                                                    padding: 6px;
+                                                    font-size: 12px;
+                                                }
+
+                                                .tab {
+                                                    padding: 8px 14px;
+                                                    font-size: 12px;
+                                                }
+
+                                                /* HERO */
+                                                .LOL {
+                                                    font-size: 28px;
+                                                }
+
+                                                .cocomelon {
+                                                    font-size: 14px;
+                                                }
+
+                                                .hachimolds h6 {
+                                                    font-size: 13px;
+                                                }
+
+                                                .cara {
+                                                    height: 180px;
+                                                }
+
+                                                .loo-loo {
+                                                    width: 150px;
+                                                    height: 150px;
+                                                    margin-top: -120px;
+                                                }
+
+                                                /* SECTIONS */
+                                                .cocomelop {
+                                                    font-size: 16px;
+                                                }
+
+                                                .POL,
+                                                .ZOL,
+                                                .trustping,
+                                                .lalaping {
+                                                    font-size: 22px;
+                                                }
+
+                                                .heartsping {
+                                                    font-size: 18px;
+                                                }
+
+                                                .cute {
+                                                    margin-bottom: 1.5rem;
+                                                    font-size: 13px;
+                                                }
+
+                                                .happing {
+                                                    font-size: 14px;
+                                                }
+
+                                                .chachaping {
+                                                    font-size: 13px;
+                                                    height: auto;
+                                                    padding-bottom: 0.5rem;
+                                                }
+
+                                                /* PRIZES */
+                                                .PRIZE-AND,
+                                                .REWARDS {
+                                                    font-size: 22px;
+                                                }
+
+                                                .HIGH-OF-THE-PRIZES {
+                                                    font-size: 14px;
+                                                }
+
+                                                .gold img {
+                                                    width: 5rem;
+                                                }
+
+                                                .silver img,
+                                                .bronze img {
+                                                    width: 4rem;
+                                                }
+
+                                                .p-1,
+                                                .p-2,
+                                                .p-3 {
+                                                    height: 8rem;
+                                                }
+
+                                                /* SPONSORS */
+                                                .logo {
+                                                    grid-template-columns: repeat(2, 50%);
+                                                    grid-template-rows: repeat(3, 33.3%);
+                                                    grid-template-areas: 'poo loo' 'doo juh' 'luh duk';
+                                                }
+
+                                                .logo-1,
+                                                .logo-2,
+                                                .logo-3,
+                                                .logo-4,
+                                                .logo-5,
+                                                .logo-6 {
+                                                    padding-left: 1rem;
+                                                    padding-top: 1rem;
+                                                }
+
+                                                .logo img {
+                                                    max-width: 80%;
+                                                }
+
+                                                .path-and-spons {
+                                                    font-size: 22px;
+                                                }
+
+                                                /* PRIVACY */
+                                                .lisenie {
+                                                    font-size: 18px;
+                                                }
+
+                                                .privie {
+                                                    font-size: 14px;
+                                                }
+
+                                                /* FOOTER */
+                                                .liker {
+                                                    font-size: 1.5rem;
+                                                }
+                                            }
