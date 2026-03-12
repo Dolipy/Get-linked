@@ -1,0 +1,56 @@
+ * {
+     padding: 0;
+     margin: 0;
+     color: white;
+ }
+ 
+ .headpead {
+     background-color: #150E28;
+     width: auto;
+     height: 15vh;
+ }
+ 
+ .davido {
+     color: white;
+ }
+ 
+ .pavido {
+     color: violet;
+ }
+ 
+ .regilegi {
+     background-image: linear-gradient(to left, #903AFF, #D434FE);
+     border-radius: 5px;
+     border-color: transparent;
+     height: 25px;
+     color: white;
+     padding-left: 10px;
+     padding-right: 10px;
+     padding-top: 2px;
+     padding-bottom: 2px;
+ }
+ 
+ .regilegi:hover {
+     background-image: linear-gradient(to right, #ff4160, #eae869);
+     cursor: wait;
+ }
+ 
+ .okopo:hover {
+     background-color: #7544b5;
+ }
+ 
+ .nonopo li {
+     display: inline-block;
+     padding: 12px;
+ }
+ 
+ .nonopo {
+     position: absolute;
+     left: 38rem;
+ }
+ 
+ .okopo {
+     padding-right: 20rem;
+     padding-bottom: 18px;
+     padding-left: 12px;
+ }
