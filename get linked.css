@@ -8,13 +8,9 @@
      - White:      #FFFFFF
    ============================================ */
 
-<<<<<<< HEAD
-/* ---------- RESET & BASE ---------- */
-=======
 
 /* ---------- RESET & BASE ---------- */
 
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
 *,
 *::before,
 *::after {
@@ -46,13 +42,9 @@ img {
     display: block;
 }
 
-<<<<<<< HEAD
-/* ---------- UTILITY CLASSES ---------- */
-=======
 
 /* ---------- UTILITY CLASSES ---------- */
 
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
 .text-purple {
     color: #D434FE;
 }
@@ -61,13 +53,9 @@ img {
     color: #D434FE;
 }
 
-<<<<<<< HEAD
-/* ---------- DECORATIVE STARS ---------- */
-=======
 
 /* ---------- DECORATIVE STARS ---------- */
 
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
 .star {
     position: fixed;
     color: #D434FE;
@@ -78,23 +66,6 @@ img {
     opacity: 0.6;
 }
 
-<<<<<<< HEAD
-.star-1 { top: 15%; left: 10%; animation-delay: 0s; }
-.star-2 { top: 30%; right: 15%; animation-delay: 0.5s; }
-.star-3 { top: 55%; left: 25%; animation-delay: 1s; }
-.star-4 { top: 70%; right: 20%; animation-delay: 1.5s; }
-.star-5 { top: 85%; left: 40%; animation-delay: 2s; }
-.star-6 { top: 45%; left: 60%; animation-delay: 2.5s; }
-
-@keyframes starTwinkle {
-    0%, 100% { opacity: 0.3; transform: scale(0.8); }
-    50% { opacity: 1; transform: scale(1.2); }
-}
-
-/* ============================================
-   HEADER / NAVBAR
-   ============================================ */
-=======
 .star-1 {
     top: 15%;
     left: 10%;
@@ -148,7 +119,6 @@ img {
    HEADER / NAVBAR
    ============================================ */
 
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
 #navbar {
     background-color: rgba(21, 14, 40, 0.95);
     width: 100%;
@@ -277,17 +247,11 @@ img {
     overflow: hidden;
 }
 
-<<<<<<< HEAD
-/* ============================================
-   SECTION 1: HERO
-   ============================================ */
-=======
 
 /* ============================================
    SECTION 1: HERO
    ============================================ */
 
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
 .hero-section {
     background-color: #150E28;
     min-height: 100vh;
@@ -295,13 +259,7 @@ img {
     position: relative;
     overflow: hidden;
     border-bottom: 1px solid rgba(212, 52, 254, 0.15);
-<<<<<<< HEAD
-    background-image:
-        radial-gradient(circle at 20% 80%, rgba(144, 58, 255, 0.12) 0%, transparent 50%),
-        radial-gradient(circle at 75% 40%, rgba(212, 52, 254, 0.08) 0%, transparent 55%);
-=======
     background-image: radial-gradient(circle at 20% 80%, rgba(144, 58, 255, 0.12) 0%, transparent 50%), radial-gradient(circle at 75% 40%, rgba(212, 52, 254, 0.08) 0%, transparent 55%);
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
 }
 
 .hero-tagline {
@@ -371,13 +329,9 @@ img {
     margin-bottom: 2rem;
 }
 
-<<<<<<< HEAD
-/* Countdown */
-=======
 
 /* Countdown */
 
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
 .hero-countdown {
     display: flex;
     gap: 1.5rem;
@@ -403,13 +357,9 @@ img {
     margin-left: 2px;
 }
 
-<<<<<<< HEAD
-/* Hero Image */
-=======
 
 /* Hero Image */
 
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
 .hero-image {
     flex: 0 0 50%;
     max-width: 50%;
@@ -438,17 +388,12 @@ img {
 }
 
 @keyframes rotateGlobe {
-<<<<<<< HEAD
-    from { transform: translate(-50%, -50%) rotate(0deg); }
-    to { transform: translate(-50%, -50%) rotate(-360deg); }
-=======
     from {
         transform: translate(-50%, -50%) rotate(0deg);
     }
     to {
         transform: translate(-50%, -50%) rotate(-360deg);
     }
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
 }
 
 .hero-flare {
@@ -465,17 +410,11 @@ img {
     z-index: 1;
 }
 
-<<<<<<< HEAD
-/* ============================================
-   SECTION 2: INTRODUCTION
-   ============================================ */
-=======
 
 /* ============================================
    SECTION 2: INTRODUCTION
    ============================================ */
 
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
 .section-intro {
     background-color: #150E28;
     min-height: 80vh;
@@ -499,10 +438,6 @@ img {
 }
 
 @keyframes floatUp {
-<<<<<<< HEAD
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-15px); }
-=======
     0%,
     100% {
         transform: translateY(0);
@@ -510,7 +445,6 @@ img {
     50% {
         transform: translateY(-15px);
     }
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
 }
 
 .big-idea-label {
@@ -538,17 +472,11 @@ img {
     opacity: 0.85;
 }
 
-<<<<<<< HEAD
-/* ============================================
-   SECTION 3: RULES & GUIDELINES
-   ============================================ */
-=======
 
 /* ============================================
    SECTION 3: RULES & GUIDELINES
    ============================================ */
 
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
 .section-rules {
     background-color: #150E28;
     min-height: 80vh;
@@ -557,13 +485,7 @@ img {
     padding: 5rem 4rem;
     gap: 5rem;
     border-bottom: 1px solid rgba(212, 52, 254, 0.1);
-<<<<<<< HEAD
-    background-image:
-        radial-gradient(circle at 70% 50%, rgba(144, 58, 255, 0.1) 0%, transparent 50%),
-        radial-gradient(circle at 20% 80%, rgba(212, 52, 254, 0.06) 0%, transparent 40%);
-=======
     background-image: radial-gradient(circle at 70% 50%, rgba(144, 58, 255, 0.1) 0%, transparent 50%), radial-gradient(circle at 20% 80%, rgba(212, 52, 254, 0.06) 0%, transparent 40%);
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
 }
 
 .rules-text {
@@ -581,17 +503,11 @@ img {
     animation: floatUp 6s ease-in-out infinite;
 }
 
-<<<<<<< HEAD
-/* ============================================
-   SECTION 4: JUDGING CRITERIA
-   ============================================ */
-=======
 
 /* ============================================
    SECTION 4: JUDGING CRITERIA
    ============================================ */
 
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
 .section-judging {
     background-color: #150E28;
     min-height: 100vh;
@@ -600,12 +516,7 @@ img {
     padding: 5rem 4rem;
     gap: 5rem;
     border-bottom: 1px solid rgba(212, 52, 254, 0.1);
-<<<<<<< HEAD
-    background-image:
-        radial-gradient(circle at 30% 40%, rgba(144, 58, 255, 0.08) 0%, transparent 50%);
-=======
     background-image: radial-gradient(circle at 30% 40%, rgba(144, 58, 255, 0.08) 0%, transparent 50%);
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
 }
 
 .judging-image {
@@ -639,17 +550,11 @@ img {
     margin-top: 1rem;
 }
 
-<<<<<<< HEAD
-/* ============================================
-   SECTION 5: FAQs
-   ============================================ */
-=======
 
 /* ============================================
    SECTION 5: FAQs
    ============================================ */
 
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
 .section-faq {
     background-color: #150E28;
     min-height: 100vh;
@@ -658,12 +563,7 @@ img {
     padding: 5rem 4rem;
     gap: 5rem;
     border-bottom: 1px solid rgba(212, 52, 254, 0.1);
-<<<<<<< HEAD
-    background-image:
-        radial-gradient(circle at 60% 50%, rgba(144, 58, 255, 0.08) 0%, transparent 50%);
-=======
     background-image: radial-gradient(circle at 60% 50%, rgba(144, 58, 255, 0.08) 0%, transparent 50%);
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
 }
 
 .faq-text {
@@ -725,27 +625,16 @@ img {
     animation: floatUp 5s ease-in-out infinite;
 }
 
-<<<<<<< HEAD
-/* ============================================
-   SECTION 6: TIMELINE
-   ============================================ */
-=======
 
 /* ============================================
    SECTION 6: TIMELINE
    ============================================ */
 
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
 .section-timeline {
     background-color: #150E28;
     padding: 5rem 4rem;
     border-bottom: 1px solid rgba(212, 52, 254, 0.1);
-<<<<<<< HEAD
-    background-image:
-        radial-gradient(circle at 50% 20%, rgba(144, 58, 255, 0.08) 0%, transparent 50%);
-=======
     background-image: radial-gradient(circle at 50% 20%, rgba(144, 58, 255, 0.08) 0%, transparent 50%);
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
 }
 
 .timeline-header {
@@ -838,28 +727,16 @@ img {
     font-size: 1.1rem;
 }
 
-<<<<<<< HEAD
-/* ============================================
-   SECTION 7: PRIZES
-   ============================================ */
-=======
 
 /* ============================================
    SECTION 7: PRIZES
    ============================================ */
 
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
 .section-prizes {
     background-color: #150E28;
     padding: 5rem 4rem;
     border-bottom: 1px solid rgba(212, 52, 254, 0.1);
-<<<<<<< HEAD
-    background-image:
-        radial-gradient(circle at 30% 70%, rgba(144, 58, 255, 0.1) 0%, transparent 50%),
-        radial-gradient(circle at 70% 30%, rgba(212, 52, 254, 0.06) 0%, transparent 40%);
-=======
     background-image: radial-gradient(circle at 30% 70%, rgba(144, 58, 255, 0.1) 0%, transparent 50%), radial-gradient(circle at 70% 30%, rgba(212, 52, 254, 0.06) 0%, transparent 40%);
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
 }
 
 .prizes-header {
@@ -959,17 +836,11 @@ img {
     color: #903AFF;
 }
 
-<<<<<<< HEAD
-/* ============================================
-   SECTION 8: PARTNERS & SPONSORS
-   ============================================ */
-=======
 
 /* ============================================
    SECTION 8: PARTNERS & SPONSORS
    ============================================ */
 
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
 .section-sponsors {
     background-color: #150E28;
     padding: 5rem 4rem;
@@ -1011,11 +882,6 @@ img {
     filter: brightness(1.2);
 }
 
-<<<<<<< HEAD
-.border-right { border-right: 2px solid #D434FE; }
-.border-left { border-left: 2px solid #D434FE; }
-.border-bottom { border-bottom: 2px solid #D434FE; }
-=======
 .border-right {
     border-right: 2px solid #D434FE;
 }
@@ -1028,15 +894,11 @@ img {
     border-bottom: 2px solid #D434FE;
 }
 
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
 
 /* ============================================
    SECTION 9: PRIVACY POLICY
    ============================================ */
-<<<<<<< HEAD
-=======
 
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
 .section-privacy {
     background-color: #150E28;
     min-height: 100vh;
@@ -1046,13 +908,7 @@ img {
     padding: 5rem 4rem;
     gap: 3rem;
     position: relative;
-<<<<<<< HEAD
-    background-image:
-        radial-gradient(circle at 10% 50%, rgba(144, 58, 255, 0.1) 0%, transparent 50%),
-        radial-gradient(circle at 80% 20%, rgba(212, 52, 254, 0.06) 0%, transparent 40%);
-=======
     background-image: radial-gradient(circle at 10% 50%, rgba(144, 58, 255, 0.1) 0%, transparent 50%), radial-gradient(circle at 80% 20%, rgba(212, 52, 254, 0.06) 0%, transparent 40%);
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
 }
 
 .privacy-info {
@@ -1080,14 +936,7 @@ img {
     border-radius: 14px;
     padding: 2.5rem 2rem;
     background: linear-gradient(160deg, rgba(21, 14, 40, 0.97), rgba(35, 18, 70, 0.85));
-<<<<<<< HEAD
-    box-shadow:
-        0 0 40px rgba(162, 0, 255, 0.08),
-        0 8px 32px rgba(0, 0, 0, 0.3),
-        inset 0 1px 0 rgba(255, 255, 255, 0.04);
-=======
     box-shadow: 0 0 40px rgba(162, 0, 255, 0.08), 0 8px 32px rgba(0, 0, 0, 0.3), inset 0 1px 0 rgba(255, 255, 255, 0.04);
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
     backdrop-filter: blur(12px);
     position: relative;
     overflow: hidden;
@@ -1105,17 +954,12 @@ img {
 }
 
 @keyframes shimmerBorder {
-<<<<<<< HEAD
-    0% { left: -100%; }
-    100% { left: 100%; }
-=======
     0% {
         left: -100%;
     }
     100% {
         left: 100%;
     }
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
 }
 
 .privacy-body {
@@ -1179,13 +1023,9 @@ img {
     flex-shrink: 0;
 }
 
-<<<<<<< HEAD
-/* Privacy Visual */
-=======
 
 /* Privacy Visual */
 
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
 .privacy-visual {
     position: relative;
     display: flex;
@@ -1210,17 +1050,11 @@ img {
     transform: translate(-50%, -50%);
 }
 
-<<<<<<< HEAD
-/* ============================================
-   FOOTER
-   ============================================ */
-=======
 
 /* ============================================
    FOOTER
    ============================================ */
 
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
 .site-footer {
     background-color: #150E28;
     padding: 5rem 4rem 2rem;
@@ -1314,36 +1148,20 @@ img {
     opacity: 0.5;
 }
 
-<<<<<<< HEAD
-/* ============================================
-   RESPONSIVE — TABLET (768px and below)
-   ============================================ */
-@media screen and (max-width: 768px) {
-
-=======
 
 /* ============================================
    RESPONSIVE — TABLET (768px and below)
    ============================================ */
 
 @media screen and (max-width: 768px) {
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
     /* NAVBAR */
     #navbar {
         padding: 0 1.5rem;
         height: 60px;
     }
-<<<<<<< HEAD
-
     .logo-text {
         font-size: 1.4rem;
     }
-
-=======
-    .logo-text {
-        font-size: 1.4rem;
-    }
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
     .nav-links {
         position: fixed;
         top: 0;
@@ -1361,113 +1179,57 @@ img {
         z-index: 1000;
         border-left: 1px solid rgba(212, 52, 254, 0.15);
     }
-<<<<<<< HEAD
-
-    .hamburger {
-        display: flex;
-    }
-
-    .nav-links.active {
-        right: 0;
-    }
-
-=======
     .hamburger {
         display: flex;
     }
     .nav-links.active {
         right: 0;
     }
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
     .nav-item {
         font-size: 1.1rem;
         font-family: 'Inter', sans-serif;
     }
-<<<<<<< HEAD
-
-=======
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
     .btn-register {
         margin-top: 1rem;
         width: 150px;
         font-size: 1rem;
         padding: 12px 0;
     }
-<<<<<<< HEAD
-
-=======
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
     /* HERO */
     .hero-section {
         padding-top: 60px;
     }
-<<<<<<< HEAD
-
-=======
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
     .hero-tagline {
         font-size: 1rem;
         padding: 2rem 1.5rem 0.5rem 0;
     }
-<<<<<<< HEAD
-
-=======
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
     .hero-content {
         flex-direction: column;
         padding: 2rem 1.5rem;
         text-align: center;
     }
-<<<<<<< HEAD
-
-=======
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
     .hero-text {
         flex: none;
         max-width: 100%;
     }
-<<<<<<< HEAD
-
     .hero-title {
         font-size: 2.5rem;
     }
-
-=======
-    .hero-title {
-        font-size: 2.5rem;
-    }
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
     .hero-image {
         flex: none;
         max-width: 100%;
         min-height: 300px;
     }
-<<<<<<< HEAD
-
-=======
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
     .hero-globe-img {
         width: 250px;
         height: 250px;
     }
-<<<<<<< HEAD
-
-    .hero-countdown {
-        justify-content: center;
-    }
-
-    .count-num {
-        font-size: 2.5rem;
-    }
-
-=======
     .hero-countdown {
         justify-content: center;
     }
     .count-num {
         font-size: 2.5rem;
     }
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
     /* SECTIONS */
     .section-intro,
     .section-rules,
@@ -1479,43 +1241,16 @@ img {
         min-height: auto;
         text-align: center;
     }
-<<<<<<< HEAD
-
-    .section-rules {
-        flex-direction: column-reverse;
-    }
-
-    .section-heading {
-        font-size: 1.6rem;
-    }
-
-=======
     .section-rules {
         flex-direction: column-reverse;
     }
     .section-heading {
         font-size: 1.6rem;
     }
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
     /* TIMELINE */
     .section-timeline {
         padding: 3rem 1.5rem;
     }
-<<<<<<< HEAD
-
-    .timeline-container {
-        grid-template-columns: 40px 1fr;
-    }
-
-    .timeline-left {
-        display: none;
-    }
-
-    .timeline-right {
-        text-align: left;
-    }
-
-=======
     .timeline-container {
         grid-template-columns: 40px 1fr;
     }
@@ -1525,26 +1260,10 @@ img {
     .timeline-right {
         text-align: left;
     }
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
     /* PRIZES */
     .section-prizes {
         padding: 3rem 1.5rem;
     }
-<<<<<<< HEAD
-
-    .prizes-content {
-        flex-direction: column;
-    }
-
-    .medals-container {
-        margin-top: 5rem;
-    }
-
-    .medal-card {
-        width: 120px;
-    }
-
-=======
     .prizes-content {
         flex-direction: column;
     }
@@ -1554,78 +1273,34 @@ img {
     .medal-card {
         width: 120px;
     }
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
     /* SPONSORS */
     .section-sponsors {
         padding: 3rem 1.5rem;
     }
-<<<<<<< HEAD
-
-    .sponsor-cell {
-        padding: 2rem 1rem;
-    }
-
-    .sponsor-cell img {
-        max-width: 80px;
-    }
-
-=======
     .sponsor-cell {
         padding: 2rem 1rem;
     }
     .sponsor-cell img {
         max-width: 80px;
     }
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
     /* PRIVACY */
     .section-privacy {
         grid-template-columns: 1fr;
         padding: 3rem 1.5rem;
     }
-<<<<<<< HEAD
-
     .privacy-visual {
         min-height: 350px;
     }
-
-=======
-    .privacy-visual {
-        min-height: 350px;
-    }
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
     /* FOOTER */
     .footer-grid {
         grid-template-columns: 1fr;
         gap: 2rem;
     }
-<<<<<<< HEAD
-
-=======
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
     .site-footer {
         padding: 3rem 1.5rem 2rem;
     }
 }
 
-<<<<<<< HEAD
-/* ============================================
-   RESPONSIVE — MOBILE (480px and below)
-   ============================================ */
-@media screen and (max-width: 480px) {
-
-    #navbar {
-        padding: 0 1rem;
-    }
-
-    .nav-links {
-        gap: 0.5rem;
-    }
-
-    .nav-item {
-        font-size: 0.7rem;
-    }
-
-=======
 
 /* ============================================
    RESPONSIVE — MOBILE (480px and below)
@@ -1641,30 +1316,10 @@ img {
     .nav-item {
         font-size: 0.7rem;
     }
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
     .btn-register {
         padding: 6px 14px;
         font-size: 0.75rem;
     }
-<<<<<<< HEAD
-
-    .logo-text {
-        font-size: 1.2rem;
-    }
-
-    .hero-title {
-        font-size: 1.8rem;
-    }
-
-    .hero-subtitle {
-        font-size: 0.9rem;
-    }
-
-    .count-num {
-        font-size: 2rem;
-    }
-
-=======
     .logo-text {
         font-size: 1.2rem;
     }
@@ -1677,77 +1332,40 @@ img {
     .count-num {
         font-size: 2rem;
     }
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
     .section-heading,
     .section-heading-center {
         font-size: 1.3rem;
     }
-<<<<<<< HEAD
-
-=======
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
     .section-body,
     .criteria-item,
     .faq-question {
         font-size: 0.82rem;
     }
-<<<<<<< HEAD
-
-    .sponsors-grid {
-        grid-template-columns: repeat(2, 1fr);
-    }
-
-    .medals-container {
-        gap: 0.8rem;
-    }
-
-=======
     .sponsors-grid {
         grid-template-columns: repeat(2, 1fr);
     }
     .medals-container {
         gap: 0.8rem;
     }
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
     .medal-card {
         width: 95px;
         padding: 1.5rem 0.5rem 1rem;
     }
-<<<<<<< HEAD
-
-=======
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
     .medal-card img {
         width: 70px;
         top: -45px;
     }
-<<<<<<< HEAD
-
-=======
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
     .gold-card img {
         width: 100px;
         top: -60px;
     }
-<<<<<<< HEAD
-
-=======
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
     .medal-title {
         font-size: 0.9rem;
         margin-top: 20px;
     }
-<<<<<<< HEAD
-
     .gold-card .medal-title {
         margin-top: 30px;
     }
-
-=======
-    .gold-card .medal-title {
-        margin-top: 30px;
-    }
->>>>>>> 9f0012b4612cee240db69fc7ec2e9c7ebe4c7b8b
     .medal-prize {
         font-size: 1rem;
     }
